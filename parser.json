@@ -1,8 +1,7 @@
 {
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-re2c",
-  "lang": "re2c",
-  "min_version": null,
-  "max_version": null,
   "location": null,
-  "semver": false
+  "lang": "re2c",
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-re2c",
+  "semver": false,
+  "parser_version": "c18a3c2f4b6665e35b7e50d6048ea3cff770c572"
 }
